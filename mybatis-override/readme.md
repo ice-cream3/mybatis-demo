@@ -17,3 +17,11 @@ mybatis的执行流程:
 			例如:(User user = sqlSession.selectOne("insist.findById", param);) 其中"insist.findById"为statementId
 		通过configuration中获取dataSource对象,从dataSource中获取connection连接,
 		通过mappedStatement对象获取statement类型进行相应的操作,封装入参和执行查询后的返回结果,返回用户
+需要的表:
+CREATE TABLE `user` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `age` int(11) DEFAULT NULL,
+  `name` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=103 DEFAULT CHARSET=utf8
+
