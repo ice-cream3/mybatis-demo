@@ -17,6 +17,7 @@ public class DefaultSqlSessionFactory implements SqlSessionFactory {
     }
 
     public SqlSession openSession() {
-        return null;
+        // defaultSqlSessionFactory实现的只是接口,接口要有相应的实现类DefaultSqlSession,DefaultSqlSession去实现sqlSession
+        return new DefaultSqlSession(configuration);
     }
 }

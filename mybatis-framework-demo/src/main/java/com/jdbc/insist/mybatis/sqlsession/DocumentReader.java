@@ -15,7 +15,7 @@ public class DocumentReader {
 	 * @return
 	 */
 	public static Document createDocument(InputStream inputStream) {
-		Document document = null;
+		Document document;
 		try {
 			SAXReader reader = new SAXReader();
 			document = reader.read(inputStream);
