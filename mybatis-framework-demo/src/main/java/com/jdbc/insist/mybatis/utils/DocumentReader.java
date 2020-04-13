@@ -1,4 +1,4 @@
-package com.jdbc.insist.mybatis.sqlsession;
+package com.jdbc.insist.mybatis.utils;
 
 import org.dom4j.Document;
 import org.dom4j.DocumentException;

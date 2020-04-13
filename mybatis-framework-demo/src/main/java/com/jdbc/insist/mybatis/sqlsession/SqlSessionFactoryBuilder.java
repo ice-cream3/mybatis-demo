@@ -2,6 +2,7 @@ package com.jdbc.insist.mybatis.sqlsession;
 
 import com.jdbc.insist.mybatis.config.Configuration;
 import com.jdbc.insist.mybatis.config.XMLConfigParser;
+import com.jdbc.insist.mybatis.utils.DocumentReader;
 import org.dom4j.Document;
 
 import java.io.InputStream;

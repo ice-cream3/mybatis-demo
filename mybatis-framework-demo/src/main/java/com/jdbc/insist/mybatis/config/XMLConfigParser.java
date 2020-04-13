@@ -1,6 +1,6 @@
 package com.jdbc.insist.mybatis.config;
 
-import com.jdbc.insist.mybatis.sqlsession.DocumentReader;
+import com.jdbc.insist.mybatis.utils.DocumentReader;
 import org.apache.commons.dbcp.BasicDataSource;
 import org.dom4j.Document;
 import org.dom4j.Element;

@@ -2,50 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6fd93f-74c2-4ca2-bfff-a57c5379fc55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/src/main/java/com/jdbc/insist/mybatis/sqlsession/SimpleExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-demo/src/main/java/com/jdbc/insist/mybatis/sqlsession/SimpleExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/config/BoundSql.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/config/Configuration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/config/MappedStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/config/ParameterMapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/config/SqlSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/config/XMLConfigParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/config/XMLMapperParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/sqlsession/DefaultSqlSession.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/sqlsession/DefaultSqlSessionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/sqlsession/DocumentReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/sqlsession/Executor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/sqlsession/SimpleExecutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/sqlsession/SqlSession.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/sqlsession/SqlSessionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/sqlsession/SqlSessionFactoryBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/utils/GenericTokenParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/utils/ParameterMappingTokenHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/classes/com/jdbc/insist/mybatis/utils/TokenHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/mybatis-framework-demo-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/target/mybatis-framework_demo-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/classes/SqlMapConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/classes/com/jdbc/insist/controller/JdbcConnectMainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/classes/com/jdbc/insist/controller/UserServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/classes/com/jdbc/insist/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/classes/com/jdbc/insist/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/classes/com/jdbc/insist/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/classes/com/jdbc/insist/service/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/classes/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/classes/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-override/target/mybatis-override-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/src/main/java/com/jdbc/insist/mybatis/config/XMLConfigParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-demo/src/main/java/com/jdbc/insist/mybatis/config/XMLConfigParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/src/main/java/com/jdbc/insist/mybatis/sqlsession/DocumentReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-demo/src/main/java/com/jdbc/insist/mybatis/utils/DocumentReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-framework-demo/src/main/java/com/jdbc/insist/mybatis/sqlsession/SqlSessionFactoryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-demo/src/main/java/com/jdbc/insist/mybatis/sqlsession/SqlSessionFactoryBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -142,22 +104,34 @@
       <option name="presentableId" value="Default" />
       <updated>1584920981734</updated>
       <workItem from="1584920986796" duration="493000" />
-      <workItem from="1585611282557" duration="16462000" />
+      <workItem from="1585611282557" duration="19646000" />
     </task>
+    <task id="LOCAL-00001" summary="pom">
+      <created>1586217853324</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586217853339</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pom" />
+    <option name="LAST_COMMIT_MESSAGE" value="pom" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Notifications" timestamp="1586183936315">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1586183936315" />
-    <state x="217" y="0" key="CommitChangelistDialog2" timestamp="1586217831643">
+    <state x="217" y="0" key="CommitChangelistDialog2" timestamp="1586217849569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="217" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586217831643" />
+    <state x="217" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586217849569" />
     <state width="450" height="466" key="DebuggerActiveHint" timestamp="1586065965519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -202,6 +176,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586217202207" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1586217856518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586217856518" />
     <state x="359" y="97" width="668" height="534" key="find.popup" timestamp="1585612032310">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -239,7 +217,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mybatis-framework-demo/src/main/java/com/jdbc/insist/mybatis/sqlsession/SimpleExecutor.java</url>
-          <line>32</line>
+          <line>31</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
